@@ -1,4 +1,4 @@
-# Gmail_Login_Auto-ation_with_Selenium-and-Python
+# Gmail_Login_Automation_with_Selenium-and-Python
 Gmail Login Automation with Selenium and Python using Spyder as an IDE available under Anaconda
 This code is used to automate of Gmail login Page.
 Selenium webdriver and Python is used for Development.
